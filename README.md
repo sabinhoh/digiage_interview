@@ -9,5 +9,7 @@
 2.Just do some coding based on what you where asked for by email and that´s all.
 3.Delivery your test by submitting a Pull Request and notify your contact at DigiAge.
 
+##PULL REQUEST
+
 ##Contribution guidelines and Tips
 1.All tips and contributions are welcome. But be aware that existing errors might not be an accident. We would appreciate if you let us know anything that you realize during the exam. We expect that and it could raise your interview evaluation up.
